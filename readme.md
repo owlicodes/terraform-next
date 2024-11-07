@@ -1,0 +1,1 @@
+This is a project that deploys a Next.js application to AWS using Terraform.
